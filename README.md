@@ -12,7 +12,9 @@ Usecases
 
 *Use ((RANDOM)) to check for Options
 *In Case of No Play the player stays in the same position
+
 *In Case of Ladder the player moves ahead by the number of position received in the die
+
 *In Case of Snake the player moves behind by the number of position received in the die
 
 4.Repeat till the Player reaches the winning position 100.
